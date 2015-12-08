@@ -1,10 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# python 3.3.2+ Hammer Dos Script v.1
-# by Can Yalçın
-# only for legal purpose
-
 from useragents import *
 from queue import Queue
 from optparse import OptionParser
