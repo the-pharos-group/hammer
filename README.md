@@ -1,2 +1,2 @@
-1. How to use Hammer [`Watch it`](http://www.youtube.com/watch?v=HVbRUhX2EPo) 
+1. Hammer is used for website load testing.
 2. Fork it...
